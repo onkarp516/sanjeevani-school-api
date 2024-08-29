@@ -1,0 +1,1 @@
+ALTER TABLE `installment_master_tbl` ADD `expiry_date` DATE NULL DEFAULT NULL AFTER `updated_at`;

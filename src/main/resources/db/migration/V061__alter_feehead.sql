@@ -1,0 +1,1 @@
+ALTER TABLE `fee_head_tbl` ADD `is_receipt_current_branch` BOOLEAN NULL DEFAULT TRUE;

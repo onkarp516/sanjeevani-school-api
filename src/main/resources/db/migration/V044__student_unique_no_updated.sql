@@ -1,0 +1,1 @@
+ALTER TABLE `student_register_tbl` ADD `student_unique_no` VARCHAR(255) NULL DEFAULT NULL AFTER `updated_at`;
